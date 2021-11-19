@@ -1,4 +1,4 @@
-# Netflix-Data-Visuallization
+# Netflix-Data-Visualization
 
 ## Introduction
 
@@ -8,7 +8,7 @@ Visualising dataset from Netflix.
 
 The purpose of this project is to perform basic wrangling and Data Visualization using plots, bar charts, pie charts and word cloud on the dataset of all the movies and TV Shows available on Netflix. The project utilizes NumPy, Pandas, and Data Visualization libraries such as seaborn.
 
-This analysis is aimed to understand Netflix’s target audience, the kind of movies and TV shows they put up and to know what people want to watch (the genre of movies and tv shows). The project also lists the countries that are major prodcuers to Netflix's plethora movies and TV shows.
+This analysis is aimed to understand Netflix’s target audience, the kind of movies and TV shows they put up and to know what people want to watch (the genre of movies and tv shows). The project also lists the countries that are major producers to Netflix's plethora of movies and TV shows.
 
 ## About the dataset
 Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies and tv shows available on their platform, as of mid-2021, they have over 200M subscribers globally. The dataset has been sourced from Kaggle.com.
